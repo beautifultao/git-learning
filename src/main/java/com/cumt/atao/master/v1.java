@@ -6,4 +6,8 @@ package com.cumt.atao.master;
  * @Author: 阿涛
  **/
 public class v1 {
+    public static void main(String[] args) {
+        System.out.println("远程master");
+        System.out.println("分支1提交");
+    }
 }
